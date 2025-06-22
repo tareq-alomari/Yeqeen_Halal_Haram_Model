@@ -9,7 +9,7 @@
 
 ---
 
-![لقطة شاشة للتطبيق](https://i.imgur.com/k6O6s7C.png)  
+![Image](https://github.com/user-attachments/assets/cecbd0b4-258f-4b66-9050-d94600308447) 
 *الواجهة التفاعلية للتطبيق تعمل على تصنيف منتج يحتوي على مكون "Prosciutto"*
 
 ---
