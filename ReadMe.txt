@@ -113,3 +113,4 @@ python app.py
 👉 https://huggingface.co/spaces/alomari7/Yeqeen_Halal_Haram_Model
 
 
+
