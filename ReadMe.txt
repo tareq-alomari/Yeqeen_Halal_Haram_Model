@@ -9,10 +9,8 @@
 
 ---
 
-![Image](https://github.com/user-attachments/assets/cecbd0b4-258f-4b66-9050-d94600308447) 
+https://github.com/tareq-alomari/Yeqeen_Halal_Haram_Model/issues/1#issue-3165533312
 *الواجهة التفاعلية للتطبيق تعمل على تصنيف منتج يحتوي على مكون "Prosciutto"*
-
----
 
 ## 🎯 فكرة المشروع
 
