@@ -1,10 +1,5 @@
 # 🕌 Yaqeen (يقين): A Halal Food Classifier
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Try%20the%20Demo-blue)](https://huggingface.co/spaces/alomari7/Yeqeen_Halal_Haram_Model)
-![Accuracy](https://img.shields.io/badge/Accuracy-96.69%25-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-
 نظام ذكاء اصطناعي متكامل يستخدم **معالجة اللغة الطبيعية** و**تعلم الآلة** لتصنيف المنتجات الغذائية إلى:
 - ✅ حلال
 - ❌ حرام
