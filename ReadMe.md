@@ -4,6 +4,7 @@
 ![Accuracy](https://img.shields.io/badge/Accuracy-96.69%25-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+![Image](https://github.com/user-attachments/assets/cecbd0b4-258f-4b66-9050-d94600308447)ا
 > **يقين** هو نظام ذكاء اصطناعي يستخدم تقنيات **معالجة اللغة الطبيعية (NLP)** و**تعلم الآلة (ML)** لتصنيف المنتجات الغذائية إلى:
 > - ✅ حلال
 > - ❌ حرام
